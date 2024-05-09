@@ -16,10 +16,10 @@ MIT (https://choosealicense.com/licenses/mit/)
 
 I would like to finish out this project by adding a front end UI.
 
-Video walk through:
+Video walk through: https://drive.google.com/file/d/1ontdreRdBss-wpNry0lUmDAqyEVr4k8l/view
 
 GitHub Repo: https://github.com/NicoleBrubaker/E-commerce-Back-End
 
-Working app: https://drive.google.com/file/d/1ontdreRdBss-wpNry0lUmDAqyEVr4k8l/view
+Working app: 
 
 ![screenshot of working app](image.png)
